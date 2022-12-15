@@ -1,5 +1,5 @@
-Meta.DisplayName=Empyrion Galactic Survival
-Meta.Description=Empyrion Galactic Survival Dedicated Server
+Meta.DisplayName=Craftway Empyrion
+Meta.Description=Craftway Empyrion Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
 Meta.Author=Shinynecrid, IceOfWraith
@@ -15,7 +15,7 @@ Meta.DockerRequired=False
 Meta.ContainerPolicy=Recommended
 Meta.Prerequsites=[]
 Meta.ConfigReleaseState=NotSpecified
-App.DisplayName=Empyrion Galactic Survival
+App.DisplayName=Craftway Empyrion
 App.RootDir=./empyrion-galactic-survival/
 App.BaseDirectory=./empyrion-galactic-survival/530870/
 App.ExecutableWin=530870\DedicatedServer\EmpyrionDedicated.exe
