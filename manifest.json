@@ -1,9 +1,9 @@
 {
-	"id": "12345",
-	"authors": "msmcpeake",
-	"origin": "https://github.com/msmcpeake/Empyrion.git",
-	"url": "https://github.com/msmcpeake/Empyrion",
-	"imagefile": "",
-	"prefix": "msmcpeake",
-	"repotype": "AppTemplates"
+    "id": "ec280171-c67b-4cf8-123f-dc27fea92ee1",
+    "authors": ["msmcpeake"],
+    "origin": "https://github.com/msmcpeake/Empyrion.git",
+    "url": "https://github.com/msmcpeake/Empyrion",
+    "imagefile": "",
+    "prefix": "msmcpeake",
+    "repotype": "AppTemplates"
 }
