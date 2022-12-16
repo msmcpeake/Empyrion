@@ -364,7 +364,7 @@
     "IncludeInCommandLine": false,
     "DefaultValue": "Default Multiplayer",
     "Placeholder": "Default Multiplayer",
-	"EnumValues": {}
+    "EnumValues": {}
   },
   {
     "DisplayName": "Release Stream",
