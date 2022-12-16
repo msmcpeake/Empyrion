@@ -358,26 +358,13 @@
     "Description": "Choose from premade scenarios.",
     "Keywords": "Custom,Scenario",
     "FieldName": "CustomScenario",
-    "InputType": "enum",
+    "InputType": "text",
     "IsFlagArgument": false,
     "ParamFieldName": "GameConfig.CustomScenario",
     "IncludeInCommandLine": false,
     "DefaultValue": "Default Multiplayer",
-    "EnumValues": {
-      "_TestBaseAttackCS": "Test Base Attack CS",
-      "_TestEmpyrion-SE": "Test Empyrion SE",
-      "_TestScenario": "Test Scenario",
-      "_TestScenario2": "Test Scenario 2",
-      "Default Akua-Omicron": "Default Akua-Omicron",
-      "Default Base Attack": "Default Base Attack",
-      "Default Creative": "Default Creative",
-      "Default Multiplayer": "Default Multiplayer",
-      "Default Random": "Default Random",
-      "Invader vs Defender - Conflict of Cygnus": "Invader vs Defender - Conflict of Cygnus",
-      "Shadows of Starlight": "Shadows of Starlight",
-      "Stranded at Nemesis (Survival Challenge)": "Stranded at Nemesis (Survival Challenge)",
-      "Tutorial": "Tutorial"
-    }
+    "Placeholder": "Default Multiplayer",
+	"EnumValues": {}
   },
   {
     "DisplayName": "Release Stream",
